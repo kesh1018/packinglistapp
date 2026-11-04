@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Packing Pal</string>
+    <string name="title_activity_main">Packing Pal</string>
+    <string name="package_name">com.uptima.packingpal</string>
+    <string name="custom_url_scheme">com.uptima.packingpal</string>
+</resources>

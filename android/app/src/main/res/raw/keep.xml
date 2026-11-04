@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- @capacitor/local-notifications looks up its small icon by name at runtime (capacitor.config.ts
+     plugins.LocalNotifications.smallIcon), so the release build's resource shrinker can't see the
+     reference. Keep it explicitly. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_stat_packingpal" />
