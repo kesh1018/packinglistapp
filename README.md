@@ -2,8 +2,6 @@
 
 A PackPoint-style packing list app for Android. Pick a destination, dates, trip type, transport and activities, and it builds a categorised packing list from the weather at your destination.
 
-**Stack:** React + TypeScript + Tailwind, EasyUI components (MIT, see `src/components/ui/EASYUI-LICENSE`), Capacitor 8 for Android (target SDK 36).
-**Weather:** Open-Meteo, which is free and needs no API key. Days inside the 16-day forecast window use the live forecast. Days further out use the same dates from last year in the historical archive as an estimate of typical weather.
 
 ## Features
 - Weather-based suggestions: rain gear, warm layers, sun protection, snow and wind gear, each with a reason (e.g. "Rain expected on 5 of 14 days")
